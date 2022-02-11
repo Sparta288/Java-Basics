@@ -1,2 +1,2 @@
-# Java-Basics
-This repo has the basics of the java language. 
+# Python Programs
+This repo has a few small python programs.  
